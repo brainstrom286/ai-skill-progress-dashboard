@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Skill Progress Dashboard
 
 The **AI Skill Progress Dashboard** is a responsive web app that helps learners **track their study progress**, **visualize learning trends**, and **generate personalized AI-powered 7-day study plans** using **Google Gemini API**.  
